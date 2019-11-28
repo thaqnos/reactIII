@@ -15,12 +15,13 @@ body {
 .doggo-card{
     width: 250px;
     height: 350px;
-    border: solid 1px rgb(235, 235, 235);
+    border: solid 1px rgb(211, 210, 210);
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin: 20px;
 }
 
 .doggo-foto {
